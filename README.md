@@ -32,5 +32,3 @@ Transitioning my career, I’ve been a co-owner and seller at a jewelry shop whe
 
 - LinkedIn: [linkedin.com/in/mustafakara](https://www.linkedin.com/in/mustafa-kara-a1988a158/) (Replace '#' with your LinkedIn profile link)
 - Email: karamustafa0807@gmail.com
-
-![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafakara&show_icons=true&hide_border=true)
