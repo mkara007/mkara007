@@ -30,5 +30,5 @@ Transitioning my career, I’ve been a co-owner and seller at a jewelry shop whe
 
 ### 📬 Get in Touch
 
-- LinkedIn: [linkedin.com/in/mustafakara](https://www.linkedin.com/in/mustafa-kara-a1988a158/) (Replace '#' with your LinkedIn profile link)
+- LinkedIn: [linkedin.com/in/mustafakara](https://www.linkedin.com/in/mustafa-kara-a1988a158/)
 - Email: karamustafa0807@gmail.com
