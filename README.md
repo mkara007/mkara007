@@ -20,9 +20,12 @@ I'm committed to learning new tools and technologies to expand my skills invento
 
 ### 📈 Projects:
 
-- **ETL, Analysis, and Visualization:** Utilized Python and SQL for in-depth analysis and insights extraction from the Monthly Retail Trade Surveys data.
-- **House Sale Price Prediction:** Applied linear regression in Python to forecast house sale prices, emphasizing data preprocessing and feature engineering.
-- **Transit Data Application:** Designed and implemented a comprehensive system involving Docker, MySQL, MongoDB, and Debezium to handle and visualize transit data.
+- **Creating a Sensemaking Data Pipeline with Airflow:** Designed an intuitive data pipeline, streamlining the flow and interpretation of complex data sets.
+- **Implementing Real-Time Data Streaming with Kafka and Docker:** Set up a seamless data streaming system, ensuring timely data transmission and processing.
+- **Real-Time Data Monitoring with ThingsBoard:** Established a monitoring dashboard, offering real-time insights and metrics for instant decision-making.
+- **ETL, Analysis, and Visualization:** Delved into the Monthly Retail Trade Surveys data using Python and SQL, extracting pivotal insights.
+- **House Sale Price Prediction:** Harnessing linear regression in Python, predicted house sale prices, emphasizing data preprocessing and feature engineering.
+- **Transit Data Application:** Built a robust system using Docker, MySQL, MongoDB, and Debezium for efficient transit data visualization and management.
 
 ### 💼 Professional Experience:
 
